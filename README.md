@@ -8,8 +8,8 @@
 # Submission File Format
 * The file should contain a header and have the following format:
 
-ImageId,Label
-1,0
-2,0
-3,0
+ImageId,Label\n
+1,0\n
+2,0\n
+3,0\n
 etc.
